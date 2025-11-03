@@ -1,0 +1,9 @@
+{
+  "name": "customer-onboarding-portal",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
